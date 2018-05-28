@@ -1,0 +1,41 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+#div-cabecalho {
+	background-color: red;
+	margin: 10px;
+}
+
+#div-menu-barra {
+	background-color: green;
+	margin: 10px;
+}
+
+#div-corpo {
+	background-color: pink;
+	margin:10px;
+	width: 900px;
+	height: 500px;
+}
+
+#div-menu-lateral {
+	background-color: yellow;
+	width: 100px;
+	height: 500px;
+	float: left;
+
+}
+
+#div-conteudo {
+	background-color: orange;
+	width:700px; 
+	height:500px;
+	float: right;
+}
+
+#div-rodape {
+	background-color: cyan;
+	margin: 10px;
+}

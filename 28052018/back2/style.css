@@ -1,0 +1,57 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+#div-container{
+	width: 900px;
+	margin: auto;
+}
+
+#div-cabecalho {
+	background-color: red;
+	margin: 10px;
+	width: 900px;
+	height: 70px;
+	text-align: center;
+}
+
+#div-menu-barra {
+	background-color: green;
+	margin: 10px;
+	width: 900px;
+	height: 50px;
+	text-align: center;
+}
+
+#div-corpo {
+	margin:10px;
+	width: 900px;
+	height: 500px;
+
+}
+
+#div-menu-lateral {
+	background-color: yellow;
+	width: 150px;
+	height: 500px;
+	float: left;
+	text-align: center;
+}
+
+#div-conteudo {
+	background-color: orange;
+	width:740px; 
+	height:500px;
+	float: right;
+	margin-left: 10px;
+	text-align: center;
+}
+
+#div-rodape {
+	background-color: cyan;
+	margin: 10px;
+	width: 900px;
+	height: 70px;
+	text-align: center;
+}

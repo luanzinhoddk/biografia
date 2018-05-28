@@ -1,0 +1,36 @@
+atidade, td {
+	border-collapse: collapse;
+}
+
+table {
+	width: 350px;
+}
+
+tr:nth-child(even){
+	background-color: lightblue;
+}
+
+tr:nth-child(odd){
+	background-color: lightgrey;
+} 
+
+.tam {
+	width: 40px;
+	height: 25px;
+}
+.gol {
+	width:50px;
+	height:25px;
+}
+.azul {
+	width:40px;
+	height:25px;
+}
+.avianca{
+	width:55px; 
+	height:25px;
+}
+.tap{
+	width:30px; 
+	height:20px;
+}
